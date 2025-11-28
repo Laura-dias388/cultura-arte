@@ -129,4 +129,4 @@ Este repositório contém:
 # 🧩 Como Executar o Projeto
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+   git clone https://github.com/Laura-dias388/cultura-arte.git
